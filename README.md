@@ -5,7 +5,7 @@ My journey of learning Python from the fundamentals to advanced concepts.
 ## Progress
 
 - [x] Python setup
-- [ ] Variables & Data Types
+- [x] Variables & Data Types
 - [ ] Operators
 - [ ] Input & Output
 - [ ] Conditions
