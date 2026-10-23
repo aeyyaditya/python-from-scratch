@@ -6,7 +6,7 @@ My journey of learning Python from the fundamentals to advanced concepts.
 
 - [x] Python setup
 - [x] Variables & Data Types
-- [ ] Operators
+- [x] Operators
 - [ ] Input & Output
 - [ ] Conditions
 - [ ] Loops
